@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BoundService</string>
+    <string name="get_random_num">获取随机数</string>
+    <string name="say_hello">点击问候</string>
+    <string name="local_bind">直接绑定Service</string>
+    <string name="messenger_bind">Messenger方式绑定</string>
+    <string name="messager_bind_communicate">Messenger方式双向交互</string>
+    <string name="aidl">AIDL交互</string>
+</resources>
